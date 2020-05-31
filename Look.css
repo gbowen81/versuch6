@@ -1,0 +1,27 @@
+body {
+  background-color: powderblue;
+}
+h1 {
+  color: red;
+}
+p {
+  border: 1px solid  #ffff66;
+  color: #2030b0;
+  padding:10px;
+  margin:50px;
+}
+li {color:#ff66ff}
+#li3 {color:#660066}
+p.error{color:red}
+a:link, a:visited {
+  background-color: blue;
+  color: white;
+  padding: 15px 65px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+}
+
+a:hover, a:active {
+  background-color: red;
+}
